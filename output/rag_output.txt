@@ -1,0 +1,5 @@
+QUESTION: what is JavaScript's primary purpose? 
+
+ANSWER: JavaScript's primary purpose is to enable client-side scripting on web pages. This means it allows developers to manipulate the content and behaviour of web pages directly within the user's (browser). 
+
+SOURCE: {'page': 1, 'source': "• JavaScript's primary.... purpose is to enable client - side scripting on web pages. This mean it allows developers to manipulate the content and behaviour of web pages directly within the user's"}

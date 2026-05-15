@@ -1,0 +1,14 @@
+1.2. Purpose of JavaScript:
+
+* JavaScript's primary.... purpose is to enable client - side scripting on web pages. This mean it allows developers to manipulate the content and behaviour of web pages directly within the user's web browser.
+
+* With JavaScript,, we can dynamically update web pages elements, validate form inputs, and respond to user interactions like clicks, mouse movements, and keyboard input.
+
+* Additionally, JavaScript can interact with web servers through AJAX (Asynchronous JavaScript and XML) to fetch data without requiring a page reload.
+Copyrighted by CodeWithCurious.com
+
+1.3. Setting up the development environment:
+
+To start coding in JavaScript, we need a development environment set up.
+
+Here are the basic Steps:

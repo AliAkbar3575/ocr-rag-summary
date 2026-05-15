@@ -1,0 +1,86 @@
+
+--- Page 1 ---
+1.2. Purpose of JavaScript:
+
+* JavaScript's primary.... purpose is to enable client - side scripting on web pages. This mean it allows developers to manipulate the content and behavio of web pages directly within the user's web browser.
+* With JavaScript, we can dynamically update web pages elements, validate form inputs, and respond to user interactions like clicks, mouse movements, and keyboard input.
+* Additionally, JavaScript can interact with web servers through AJAX (Asynchronous JavaScript and XML) to fetch data without requiring a page reload.
+Copyrighted by CodeWithCurious.com
+
+1.3. Setting up the development environment:
+
+To start coding in JavaScript, we need a development environment set up.
+
+Here are the basic Steps:
+
+--- Page 2 ---
+## A Better way to take searchable notes ##
+
+I needed to have a better way to retrieve useful informatin from my handwritten scrawls. A way that I coud sit in a meeting, writing rapidly with pen and paper, but at the same time be able to later use the informaton I had recorded. 
+
+In other words, my notes needed to be:
+- handwritten
+- in my normal handwriting
+- Searchable
+- clear and concis for future recall.
+
+I'd seen the Evernote note system before, a notebook (for printable templates) that could be scanned using a clever app and sent to email or cloud services like Dropbox. It was pretty clever. The app could also apply OCR to convert .HEIC scans with basic text files. Nice, but not brillant either. Formatting was a bit hit and miss, so required a fair amount of manual correction for typos, odd punctuation and clunky.
+
+The solution to build?
+
+a tool Ive used a few times before - Cloud AI. I uploaded .HE .txt file and asked Cloud to
+
+--- Page 3 ---
+Basics
+
+cycle :
+
+when a system aftr undergoing a numben of processes is able to attain its original conditions [origiginal Vol. , pressure & tempr] it is then said to have completed a cycle. 
+
+A cycle must be completed so that continous work can be obtained otherwise the gas will escape out.
+
+the completion ane HA , HR, WD (expansion) & compression. 
+The order in which Different operation must be caried as follows : 
+• Heat addition
+• work done (useful work)
+• Heat rejection 
+• Compression (work input)
+
+Ideal cycle
+it is the cycle in which expansion and compression takes place adiabatically and nevoribly (isentropically).
+
+Reversible and irreversible proces
+when a system after undergoing a proces is able to retain its original conditions along the same path in the revere dirn, the process is then said to be a reversible process. 
+
+On the other hand when the system is unable to attain its original condition while following revoer path, the process sit then as irreversible proces.
+
+--- Page 4 ---
+2. Network Interface Cards (NIC):-
+
+NICS are handware components installed 
+in Computers and other devices that allow 
+them to Connect to a netwozk. They 
+typically include Ethernet parts for 
+wired Connections or wi-fi adapters 
+for wireless Connections.
+
+3. Cables or Wireless signals:-
+
+These are the mediums through which 
+data is transmitted between devices. It 
+could be Ethernet Cables for wired Connections 
+or radio waves for wireless Connections.
+
+4. Routers:-
+
+Routers are devices that forward data 
+packits between different networks. They 
+serve as the Connection point between 
+a local netwozk and the internet.
+
+5. Switches:-
+
+Switches are devices that Connect multiple 
+devices within a local network, allowing 
+them to Communicate with each other 
+efficiently.
