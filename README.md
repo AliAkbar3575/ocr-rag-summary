@@ -1,5 +1,5 @@
 #### How to run the overall system
-(no UI is developed, the system must be run in the terminal)
+(no UI is developed, the system must be run in the terminal...an architecture is added, file name: *assessment_workflow.png*)
 
 
 ---
