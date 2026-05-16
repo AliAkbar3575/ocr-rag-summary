@@ -1,11 +1,11 @@
 #### How to run the overall system
-(no UI is developed, the system must be run in the console)
+(no UI is developed, the system must be run in the terminal)
 
 
 ---
 
-- type: *pip install -r requirements.txt*
-- type: *python main.py*
+- type in the terminal: *pip install -r requirements.txt*
+- type in the terminal: *python main.py*
 - The doc (either image/pdf - we can change it to modify the *data_loader* file in *data_processing* folder in *line 11, 12*) is processed
 - Console shows the extracted text from handwritten scanned docs and saved them into output folder.
 - Console shows - *"Make an action (rag/summary):"* - to take input, what system would I use.
