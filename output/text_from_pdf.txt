@@ -22,20 +22,19 @@ In other words, my notes needed to be:
 - handwritten
 - in my normal handwriting
 - Searchable
-- clear and concis for future recall.
+- clear and concis for future reccall.
 
-I'd seen the Evernote note system before, a notebook (for printable templates) that could be scanned using a clever app and sent to email or cloud services like Dropbox. It was pretty clever. The app could also apply OCR to convert .HEIC scans with basic text files. Nice, but not brillant either. Formatting was a bit hit and miss, so required a fair amount of manual correction for typos, odd punctuation and clunky.
+I'd seen the Evernote note system before, a notebook (for probable templates) that could be scanned using a clever app and sent to email or cloud services like Dropbox. It was pretty clever. The app could also apply OCR to convert .HEIC scans with basic text files. Not brillant either. Formatting was a bit hit and miss, so required a fair amount of manual correction for typos, odd punctuation and clunky.
 
-The solution to build?
-
-a tool Ive used a few times before - Cloud AI. I uploaded .HE .txt file and asked Cloud to
+The solution to buil7
+a tool Ive used a few hundref times - Cloud AI. I uploaded .HE .txt file and asked Cloud to
 
 --- Page 3 ---
 Basics
 
 cycle :
 
-when a system aftr undergoing a numben of processes is able to attain its original conditions [origiginal Vol. , pressure & tempr] it is then said to have completed a cycle. 
+when a system aftr undergoing a numben of processes is able to attain its original conditions [origiginal Vol. , pressure & tempr?] it is then said to have completed a cycle. 
 
 A cycle must be completed so that continous work can be obtained otherwise the gas will escape out.
 
@@ -46,10 +45,12 @@ The order in which Different operation must be caried as follows :
 • Heat rejection 
 • Compression (work input)
 
-Ideal cycle
+Ideal cycle 
+
 it is the cycle in which expansion and compression takes place adiabatically and nevoribly (isentropically).
 
 Reversible and irreversible proces
+
 when a system after undergoing a proces is able to retain its original conditions along the same path in the revere dirn, the process is then said to be a reversible process. 
 
 On the other hand when the system is unable to attain its original condition while following revoer path, the process sit then as irreversible proces.
@@ -59,7 +60,7 @@ On the other hand when the system is unable to attain its original condition whi
 
 NICS are handware components installed 
 in Computers and other devices that allow 
-them to Connect to a netwozk. They 
+them to Connect to a network. They 
 typically include Ethernet parts for 
 wired Connections or wi-fi adapters 
 for wireless Connections.
@@ -76,7 +77,7 @@ or radio waves for wireless Connections.
 Routers are devices that forward data 
 packits between different networks. They 
 serve as the Connection point between 
-a local netwozk and the internet.
+a local network and the internet.
 
 5. Switches:-
 

@@ -9,7 +9,7 @@ from utils import save_as_text
 # ----------------- file path defining ---------------
 
 file_path = "data/pdfs/doc.pdf" # for pdf loading
-file_path = "data/images/img1.jpg" # for image loading
+# file_path = "data/images/img1.jpg" # for image loading
 
 # ------------- check file extension and relevant action ----------
 

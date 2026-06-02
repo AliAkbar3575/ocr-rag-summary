@@ -1,5 +1,5 @@
-QUESTION: what is JavaScript's primary purpose? 
+QUESTION: what are routers? 
 
-ANSWER: JavaScript's primary purpose is to enable client-side scripting on web pages. This means it allows developers to manipulate the content and behaviour of web pages directly within the user's (browser). 
+ANSWER: Routers are devices that forward data packets between different networks. They serve as the connection point between a local network and the internet. 
 
-SOURCE: {'page': 1, 'source': "• JavaScript's primary.... purpose is to enable client - side scripting on web pages. This mean it allows developers to manipulate the content and behaviour of web pages directly within the user's"}
+SOURCE: {'page': 4, 'source': '4. Routers:-\n\nRouters are devices that forward data \npackits between different networks. They \nserve as the Connection point between \na local network and the internet.\n\n5. Switches:-'}
