@@ -16,10 +16,10 @@ class SummaryState(TypedDict):
 
 class HITLSummaryEngine:
 
-    def __init__(self):
+    def __init__(self, model_name: str = "llama-3.3-70b-versatile"):
         
-        self.llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0.2)
-        self.editing_llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0.1)
+        self.llm = ChatGroq(model=model_name, temperature=0.2)
+        self.editing_llm = ChatGroq(model=model_name, temperature=0.1)
 
         self.checkpointer = MemorySaver()
         self.app = self._build_graph()

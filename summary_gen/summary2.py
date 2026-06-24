@@ -4,10 +4,10 @@ from langgraph.types import Command
 
 class SummaryGenerator:
 
-    def __init__(self, text: str, thread_id: str = "summary-thread"):
+    def __init__(self, text: str, thread_id: str = "summary-thread", model_name: str = "llama-3.3-70b-versatile"):
 
         self.text = text
-        self.engine = HITLSummaryEngine()
+        self.engine = HITLSummaryEngine(model_name=model_name)
 
         self.config = {
             "configurable": {
